@@ -1,0 +1,24 @@
+*.pyc
+
+.xml
+
+*.log
+
+
+node_modules
+# pycharm
+.idea
+
+# VSCode
+.vscode
+.vscode/
+node_modules/
+cypress.env.json
+cypress/videos
+cypress/screenshots
+cypress/report
+cypress/.DS_Store
+.Ds_store
+.DS_Store
+.DS_Store/
+package-lock.json
