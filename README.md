@@ -1,6 +1,6 @@
 Automated end-to-end testing of Amazon [some flows]
 
-# Forescout Amazon Assignment
+# Amazon Automation
 
 ## Installations
 
