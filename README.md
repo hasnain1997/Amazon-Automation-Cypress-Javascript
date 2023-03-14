@@ -39,4 +39,4 @@ Commands to run testcases
       marge index.json --reportDir public --assetsDir public/assets --reportPageTitle index.html
 
 - Note if you are going to execute it more than once, Please Delete Report folder index.json. We can manage it in pipline (CI/CD)
-# Forescout Amazon Assignment
+# Amazon Automation
