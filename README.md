@@ -17,10 +17,6 @@ Install Dependencies
 
       npm install cypress
 
-- Execute following command to install typescript
-
-      npm install --save-dev typescript
-
 Commands to run testcases
 
 - Execute following command to run testcase manually from cypress test runner
